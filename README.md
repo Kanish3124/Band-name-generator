@@ -35,7 +35,7 @@ A fun web application that generates unique band names by combining a random adj
 
 4. Start the server:
    ```bash
-   node app.js
+   node index.js
 
 5. Open your browser and visit: http://localhost:3000
 
@@ -46,7 +46,7 @@ Band-name-generator/
 ├── public/            # Static assets (CSS, images, etc.)
 ├── views/             # EJS templates
 │   └── index.ejs      # Main HTML file
-├── app.js             # Main server file
+├── index.js           # Main server file
 ├── package.json       # Project metadata and dependencies
 └── README.md          # Project documentation
 ```
